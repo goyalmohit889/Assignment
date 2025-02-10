@@ -13,6 +13,6 @@ public class avg {
         System.out.println("Enter 3rd no.: ");
         int b=sc.nextInt();
         double avg=(a+b+c)/3;
-        System.out.println("Average is: "+avg);
+        System.out.println("Average: "+avg);
     }
 }
